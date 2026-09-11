@@ -1,0 +1,1 @@
+The moral man will not seek to cause strife or division. He does what is best to soothe and heal relationships. He will seek to cause wrath or anger
