@@ -1,0 +1,26 @@
+.markdown-rendered p,
+.markdown-rendered li,
+.markdown-rendered blockquote,
+.markdown-rendered td,
+.markdown-rendered th {
+    text-align: justify !important;
+    text-justify: inter-word !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-line {
+    text-align: justify !important;
+    text-justify: inter-word !important;
+}
+
+@media print {
+    .markdown-rendered,
+    .markdown-rendered p,
+    .markdown-rendered li,
+    .markdown-rendered blockquote,
+    .markdown-rendered td,
+    .markdown-rendered th {
+        text-align: justify !important;
+        text-justify: inter-word !important;
+    }
+}
+

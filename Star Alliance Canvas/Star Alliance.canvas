@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"09d4db18430b9bb8","type":"file","file":"Star Alliance Canvas/United Airlines logo.png","x":-1140,"y":-660,"width":187,"height":105,"color":"4"},
+		{"id":"d0ad8b4456e0938f","type":"file","file":"Star Alliance Canvas/Air Canada Logo.png","x":-1140,"y":-520,"width":187,"height":105,"color":"3"},
+		{"id":"7579480862204295","type":"file","file":"Star Alliance Canvas/Thai Airways logo.png","x":-1140,"y":-380,"width":196,"height":110,"color":"1"},
+		{"id":"ec62c924624c0da7","type":"file","file":"Star Alliance Canvas/SAS logo.png","x":-1140,"y":-240,"width":196,"height":145,"color":"5"},
+		{"id":"7ee0dd195991362b","type":"file","file":"Star Alliance Canvas/Lufthansa Logo.png","x":-1140,"y":-60,"width":206,"height":116,"color":"#82c73d"},
+		{"id":"2a1a057a648ff513","type":"file","file":"Star Alliance Canvas/Star Alliance.png.png","x":-700,"y":-467,"width":460,"height":258,"color":"#a923b3"},
+		{"id":"25627575bf7fd33f","type":"text","text":"Star Alliance is the world's largest airline alliance.","x":-180,"y":-305,"width":250,"height":70,"color":"2"},
+		{
+			"id":"37be9f7f9882b939",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-4,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{"id":"9f0268b866b3d9bf","fromNode":"25627575bf7fd33f","fromSide":"top","toNode":"2a1a057a648ff513","toSide":"right"},
+		{"id":"1b0f2232a1cce8f5","fromNode":"2a1a057a648ff513","fromSide":"left","toNode":"09d4db18430b9bb8","toSide":"right"},
+		{"id":"2bf5cb25c7c59874","fromNode":"2a1a057a648ff513","fromSide":"left","toNode":"d0ad8b4456e0938f","toSide":"right"},
+		{"id":"cd4a3eb183306ae4","fromNode":"2a1a057a648ff513","fromSide":"left","toNode":"7579480862204295","toSide":"right"},
+		{"id":"092925b8328e10a6","fromNode":"2a1a057a648ff513","fromSide":"left","toNode":"ec62c924624c0da7","toSide":"right"},
+		{"id":"a9951ec5019cfa11","fromNode":"2a1a057a648ff513","fromSide":"left","toNode":"7ee0dd195991362b","toSide":"right"},
+		{
+			"id":"86c1c5ce016d24c3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"37be9f7f9882b939",
+			"fromSide":"top",
+			"toNode":"2a1a057a648ff513",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
