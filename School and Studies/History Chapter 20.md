@@ -11,4 +11,5 @@
 10. Isaac Newton contributed more to science than any other individual. He discovered the famous law of universal gravity, which states that every particle of matter in the univverse attracts every other particle of matter with a force proportional to its quantity of matter, decreasing as the square of the distance decreases.
 11. The Puritans took the greatest interest in the work of the scientists than any other group.
 12. The first permanent scienfitic socity in the Modern Age was the Royal Socieity, founded in 1662 in London.
-13. Albert Einstein is remembered for stating the theories of relativity. 
+13. Albert Einstein is especially remembered for stating the theories of relativity. 
+14. Andreas Vesalius is known as the Father of Anatomy. William Harvey described the circulation of the blood in the human body. 
