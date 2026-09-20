@@ -3,6 +3,7 @@
     "snippet"
   ],
   "cssTheme": "Minimal",
-  "textFontFamily": "Crimson Pro",
-  "accentColor": "#009dff"
+  "textFontFamily": "Google Sans",
+  "accentColor": "#009dff",
+  "interfaceFontFamily": "Google Sans"
 }
