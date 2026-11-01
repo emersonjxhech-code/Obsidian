@@ -9,9 +9,11 @@ $336.11
 ## Roth Emerson—$2,863.65
 ## Custodial-Emerson—$2,192.80
 
-iPhone 17e with tax:  $755.62
+iPhone 15 with tax:  $755.62
 
-Difference Between Bank Account: $298.15
-Plus One Hundred: $398.15
+Difference Between Bank Account: $498.15
+Plus more: $648.15
 
 To withdraw from Custodial.
+
+
